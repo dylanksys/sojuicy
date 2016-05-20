@@ -1,0 +1,12 @@
+{
+  "name": "myapp",
+  "description": "appbutlersojuicy",
+  "author": "dylanksys",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dylanksys/sojuicy"
+  },
+  "dependencies": {
+    "express": "4.13.4"
+  }
+}
